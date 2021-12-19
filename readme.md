@@ -13,6 +13,6 @@ Then start the dev server:
 ```sh
 npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
-
+# Screenshot
 ![Screenshot](small.png)
 ![Screenshot](wide.png)
