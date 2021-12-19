@@ -11,5 +11,5 @@ npm install
 Then start the dev server:
 
 ```sh
-npm run dev
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
