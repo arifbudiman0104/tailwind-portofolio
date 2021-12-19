@@ -14,5 +14,5 @@ Then start the dev server:
 npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
 # Screenshot
-![Screenshot](small.png)
 ![Screenshot](wide.png)
+![Screenshot](small.png)
